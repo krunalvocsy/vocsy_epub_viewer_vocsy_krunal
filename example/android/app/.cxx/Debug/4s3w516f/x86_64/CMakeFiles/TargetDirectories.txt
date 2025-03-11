@@ -1,0 +1,2 @@
+E:/Vocsy/vocsy_epub_viewer_vocsy_krunal/example/android/app/.cxx/Debug/4s3w516f/x86_64/CMakeFiles/edit_cache.dir
+E:/Vocsy/vocsy_epub_viewer_vocsy_krunal/example/android/app/.cxx/Debug/4s3w516f/x86_64/CMakeFiles/rebuild_cache.dir
